@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Backtracking",
+            "request": "launch",
+            "mainClass": "Backtracking",
+            "projectName": "algoritmos_d0f1ec72"
+        },
+        {
+            "type": "java",
             "name": "Launch AlgoritmoVoraz",
             "request": "launch",
             "mainClass": "AlgoritmoVoraz",
