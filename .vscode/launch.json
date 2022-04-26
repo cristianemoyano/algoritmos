@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CaminoMinimo",
+            "request": "launch",
+            "mainClass": "CaminoMinimo",
+            "projectName": "algoritmos_d0f1ec72"
+        },
+        {
+            "type": "java",
+            "name": "Launch Gui",
+            "request": "launch",
+            "mainClass": "CaminoMinimo.src.ventana.Gui",
+            "projectName": "algoritmos_d0f1ec72"
+        },
+        {
+            "type": "java",
             "name": "Launch Backtracking",
             "request": "launch",
             "mainClass": "Backtracking",
